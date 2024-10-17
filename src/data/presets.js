@@ -91,7 +91,7 @@ export const presetsData = [
   },
   {
     preset: '016 Brown 800',
-    band: '-',
+    band: 'Van Halen',
     song: '-',
     confirmed: false
   },
@@ -409,8 +409,8 @@ export const presetsData = [
   },
   {
     preset: '069 Boom x4',
-    band: '-',
-    song: '-',
+    band: 'John Lee Hooker',
+    song: 'Boom Boom Boom Boom',
     confirmed: false
   },
   {
@@ -457,8 +457,8 @@ export const presetsData = [
   },
   {
     preset: '077 Little Thang',
-    band: '-',
-    song: '-',
+    band: 'Jimmy Hendrix',
+    song: 'Little Wing',
     confirmed: false
   },
   {
@@ -535,8 +535,8 @@ export const presetsData = [
   },
   {
     preset: '090 Baldwin Burger',
-    band: '-',
-    song: '-',
+    band: 'Stevie Ray Vaughan',
+    song: 'Texas Flood',
     confirmed: false
   },
   {
@@ -709,8 +709,8 @@ export const presetsData = [
   },
   {
     preset: '119 Perfect RX',
-    band: '-',
-    song: '-',
+    band: 'Nine Inch Nails',
+    song: 'Perfect drug',
     confirmed: false
   },
   {
@@ -721,14 +721,8 @@ export const presetsData = [
   },
   {
     preset: '121 Wont do it',
-    band: '-',
-    song: '-',
-    confirmed: false
-  },
-  {
-    preset: '121 Xtreme alien',
-    band: '-',
-    song: '-',
+    band: 'Meatloaf',
+    song: 'I Wont Do That',
     confirmed: false
   },
   {
@@ -943,8 +937,8 @@ export const presetsData = [
   },
   {
     preset: '157 Munkey Grunge',
-    band: '-',
-    song: '-',
+    band: 'Arctic Monkeys',
+    song: '',
     confirmed: false
   },
   {
@@ -967,8 +961,8 @@ export const presetsData = [
   },
   {
     preset: '161 Spoke in Class',
-    band: '-',
-    song: '-',
+    band: 'Pearl Jam',
+    song: 'Jeremy',
     confirmed: false
   },
   {
@@ -1087,8 +1081,8 @@ export const presetsData = [
   },
   {
     preset: '181 Mars Spiders',
-    band: '-',
-    song: '-',
+    band: 'David Bowie',
+    song: 'Ziggy Stardust',
     confirmed: false
   },
   {
